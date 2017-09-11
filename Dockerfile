@@ -1,6 +1,6 @@
 FROM php:5.6-fpm
 
-MAINTAINER hello@withknown.com
+MAINTAINER billy@moonlightrambler.net
 
 RUN apt-get update && apt-get install -y \
       bzip2 \
